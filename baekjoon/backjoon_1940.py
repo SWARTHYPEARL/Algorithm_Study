@@ -1,5 +1,7 @@
 
 # link: https://www.acmicpc.net/problem/1940
+# 투포인터 예시문제
+# python-dict로 해결
 
 def solution():
     num_count = int(input())
